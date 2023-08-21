@@ -1,1 +1,2 @@
 # Airbnb_BCN_Analysis
+I have been involved in the development of this project using Airbnb's open data from Barcelona. Throughout this work, we have applied advanced techniques to our data, including advanced preprocessing, Multiple Correspondence Analysis (MCA), advanced clustering (DBSCAN, OPTICS, CURE, etc.), advanced profiling, time series clustering, textual clustering, sentiment analysis, topic modeling with LDA, and geospatial analysis and geostatistics.
